@@ -4500,6 +4500,99 @@ a {
 .cid-ufEBCbdaSZ .mbr-section-subtitle {
   color: #757b62;
 }
+.cid-ufGvNc3dZf {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #d7ddd1;
+}
+.cid-ufGvNc3dZf .item-wrapper {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-ufGvNc3dZf .smallImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .cid-ufGvNc3dZf .largeImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .cid-ufGvNc3dZf .largeImage .item {
+    margin-bottom: 2rem;
+  }
+  .cid-ufGvNc3dZf .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767px) and (max-width: 767px) {
+  .cid-ufGvNc3dZf .largeImage .item {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ufGvNc3dZf .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ufGvNc3dZf .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ufGvNc3dZf .mbr-description {
+  text-align: left;
+}
+.cid-ufGvNc3dZf .card-title,
+.cid-ufGvNc3dZf .iconfont-wrapper {
+  color: #000000;
+}
+.cid-ufGvNc3dZf .card-text {
+  color: #000000;
+}
+.cid-ufGvNc3dZf .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-ufGvNc3dZf .mbr-number {
+  color: #9fe870;
+}
+.cid-ufGvNc3dZf .mbr-text,
+.cid-ufGvNc3dZf .mbr-section-btn {
+  text-align: center;
+}
+.cid-ufGvNc3dZf .card-text,
+.cid-ufGvNc3dZf .item .mbr-section-btn {
+  text-align: left;
+}
+.cid-ufGvNc3dZf .smallImage {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+@media (max-width: 992px) {
+  .cid-ufGvNc3dZf .smallImage {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+.cid-ufGvNc3dZf .largeImage {
+  width: 100%;
+  height: 632px;
+  object-fit: cover;
+}
+@media (max-width: 992px) {
+  .cid-ufGvNc3dZf .largeImage {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+.cid-ufGvNc3dZf .row {
+  flex-direction: row-reverse;
+}
 .cid-ufEzLtpBdU {
   padding-top: 6rem;
   padding-bottom: 0rem;
